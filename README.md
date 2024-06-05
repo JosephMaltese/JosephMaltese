@@ -4,13 +4,14 @@
 **JosephMaltese/JosephMaltese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on learning front-end web development
-- 🌱 I’m currently learning about React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I'm Joseph, a second-year Computer Science student at McMaster University!
+
+- 🔭 I’m currently working on creating my first full-stack web application
+- 🌱 I’m currently learning about web development using React
+- 👯 I’m looking to collaborate on an AI face recognition application
+- 📫 How to reach me: email - josephmaltese34@gmail.com , LinkedIn - www.linkedin.com/in/josephmaltese
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I play intramural volleyball at school
+
