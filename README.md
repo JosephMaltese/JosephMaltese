@@ -10,7 +10,6 @@ I'm Joseph, a second-year Computer Science student at McMaster University!
 
 - 🔭 I’m currently working on creating a reddit clone with user authentication
 - 🌱 I’m currently learning about the IHP framework!
-- 👯 I’m looking to collaborate on an AI face recognition application
 - 📫 How to reach me: email - josephmaltese34@gmail.com , LinkedIn - www.linkedin.com/in/josephmaltese
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I play intramural volleyball at school
