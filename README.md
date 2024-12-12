@@ -12,5 +12,5 @@ I'm Joseph, a second-year Computer Science student at McMaster University!
 - 🌱 I’m currently learning about Flask!
 - 📫 How to reach me: email - josephmaltese34@gmail.com , LinkedIn - www.linkedin.com/in/josephmaltese
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I play intramural volleyball at school
+- ⚡ Fun fact: My bench PR is 220
 
