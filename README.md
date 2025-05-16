@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 I'm Joseph, a third-year Computer Science student at McMaster University!
 
-- 🔭 I’m currently working on the STaBL.rocks web application and the GDG McMaster U site
-- 🌱 I’m currently learning about Github Actions and CI/CD
+- 🔭 I’m currently working as a summer Research Intern for the STaBL Foundation
+- 🌱 I’m currently learning about Github Actions and CI/CD, as well as applications of the Zipper data structure
 - 📫 How to reach me: email - maltesj@mcmaster.ca , LinkedIn - www.linkedin.com/in/josephmaltese
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My bench PR is 220
