@@ -13,5 +13,5 @@ I'm Joseph, an incoming third-year Computer Science student at McMaster Universi
 - 📫 How to reach me: email - maltesj@mcmaster.ca , LinkedIn - www.linkedin.com/in/josephmaltese
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My bench PR is 220
-- 💻 Check out my personal portfolio website built using Next.js! www.josephmaltese.com
+- 💻 Check out my personal portfolio website built using Next.js. Just added custom CI/CD! www.josephmaltese.com
 
