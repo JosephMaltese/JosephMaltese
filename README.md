@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 I'm Joseph, an incoming third-year Computer Science student at McMaster University!
 
 - 🔭 I’m currently working as a Summer Research and Development Intern for the STaBL Foundation
-- 🌱 I’m currently learning about Github Actions and CI/CD, as well as applications of the Zipper data structure
+- 🌱 I’m currently learning about AWS and Elm programming
 - 📫 How to reach me: email - maltesj@mcmaster.ca , LinkedIn - www.linkedin.com/in/josephmaltese
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My bench PR is 220
